@@ -1,5 +1,6 @@
 <?php declare(strict_types=1);
 
+
 use App\Models\Crypto;
 
 require_once 'vendor/autoload.php';
